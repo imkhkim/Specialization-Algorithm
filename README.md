@@ -5,8 +5,9 @@
 <br>
 
 ## 👨‍💻 스터디원
-|[김금환](https://github.com/imkhkim)|[이예진](https://github.com/)|[안윤철](https://github.com/)|[김혜지](https://github.com/)|
+|![image](https://github.com/imkhkim/Specialization-Algorithm/assets/101717060/a3359116-06de-4aa4-917c-328a81eb0301)|![image](https://github.com/imkhkim/Specialization-Algorithm/assets/101717060/bd86c47c-4ccf-45d1-b868-e60907c7c170)|![image](https://github.com/imkhkim/Specialization-Algorithm/assets/101717060/5b51da9a-dadd-4801-9fba-6cb5514dcc87)|![image](https://github.com/imkhkim/Specialization-Algorithm/assets/101717060/5a11b003-8b79-435c-80c5-fb1c9dbf3836)|
 |:---:|:---:|:---:|:---:|
+|[김금환](https://github.com/imkhkim)|[이예진](https://github.com/)|[안윤철](https://github.com/)|[김혜지](https://github.com/)|
 
 <br>
 
