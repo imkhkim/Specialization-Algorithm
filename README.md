@@ -5,7 +5,7 @@
 <br>
 
 ## 👨‍💻 스터디원
-|[imkhkim](https://github.com/imkhkim)|[](https://github.com/)|[](https://github.com/)|[](https://github.com/)|
+|[김금환](https://github.com/imkhkim)|[이예진](https://github.com/)|[안윤철](https://github.com/)|[김혜지](https://github.com/)|
 |:---:|:---:|:---:|:---:|
 
 <br>
