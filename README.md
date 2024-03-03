@@ -5,7 +5,7 @@
 <br>
 
 ## 👨‍💻 스터디원
-|<img src="https://github.com/imkhkim/Specialization-Algorithm/assets/101717060/55099a35-1496-472b-af80-81cd660b7cd1" width="150px" height="150px">|<img src="https://github.com/imkhkim/Specialization-Algorithm/assets/101717060/9d8dd8c0-9a30-4728-84eb-bc5a106cddf2" width="150px" height="150px">|<img src="https://github.com/imkhkim/Specialization-Algorithm/assets/101717060/c67807f3-cc10-4b10-8d43-bc8363563ede" width="150px" height="150px">|<img src="" width="150px" height="150px">|
+|[<img src="https://github.com/imkhkim/Specialization-Algorithm/assets/101717060/55099a35-1496-472b-af80-81cd660b7cd1" width="150px" height="150px">](https://github.com/imkhkim)|[<img src="https://github.com/imkhkim/Specialization-Algorithm/assets/101717060/9d8dd8c0-9a30-4728-84eb-bc5a106cddf2" width="150px" height="150px">](https://github.com/yeahjin)|[<img src="https://github.com/imkhkim/Specialization-Algorithm/assets/101717060/c67807f3-cc10-4b10-8d43-bc8363563ede" width="150px" height="150px">](https://github.com/yuncheol-AHN)|[<img src="" width="150px" height="150px">](https://github.com/)|
 |:---:|:---:|:---:|:---:|
 |[imkhkim](https://github.com/imkhkim)|[yeahjin](https://github.com/yeahjin)|[yuncheol-AHN](https://github.com/yuncheol-AHN)|[김혜지](https://github.com/)|
 
@@ -34,7 +34,7 @@
 
 <br>
 
-## 🛢 [스택/큐](https://school.programmers.co.kr/learn/courses/30/parts/12081)
+## 🧱 [스택/큐](https://school.programmers.co.kr/learn/courses/30/parts/12081)
 출제빈도 보통 / 평균 점수 높음 / 6문제
 |구분|문제|난이도|김금환|이예진|안윤철|김혜지|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
