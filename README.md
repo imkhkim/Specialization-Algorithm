@@ -5,9 +5,9 @@
 <br>
 
 ## 👨‍💻 스터디원
-|![image](https://github.com/imkhkim/Specialization-Algorithm/assets/101717060/a3359116-06de-4aa4-917c-328a81eb0301)|![image](https://github.com/imkhkim/Specialization-Algorithm/assets/101717060/bd86c47c-4ccf-45d1-b868-e60907c7c170)|![image](https://github.com/imkhkim/Specialization-Algorithm/assets/101717060/5b51da9a-dadd-4801-9fba-6cb5514dcc87)|![image](https://github.com/imkhkim/Specialization-Algorithm/assets/101717060/5a11b003-8b79-435c-80c5-fb1c9dbf3836)|
+|<img src="https://github.com/imkhkim/Specialization-Algorithm/assets/101717060/55099a35-1496-472b-af80-81cd660b7cd1" width="150px" height="150px">|<img src="https://github.com/imkhkim/Specialization-Algorithm/assets/101717060/9d8dd8c0-9a30-4728-84eb-bc5a106cddf2" width="150px" height="150px">|<img src="https://github.com/imkhkim/Specialization-Algorithm/assets/101717060/c67807f3-cc10-4b10-8d43-bc8363563ede" width="150px" height="150px">|<img src="" width="150px" height="150px">|
 |:---:|:---:|:---:|:---:|
-|[김금환](https://github.com/imkhkim)|[이예진](https://github.com/)|[안윤철](https://github.com/)|[김혜지](https://github.com/)|
+|[imkhkim](https://github.com/imkhkim)|[yeahjin](https://github.com/yeahjin)|[yuncheol-AHN](https://github.com/yuncheol-AHN)|[김혜지](https://github.com/)|
 
 <br>
 
@@ -15,10 +15,10 @@
 스터디 날짜에 모여서 각자의 풀이 방법 공유
 |주차|스터디 날짜|유형|문제 수|상태|
 |:---:|:---:|:---:|:---:|:---:|
-|1주차|03월 06일|해시, 스택/큐|11문제|진행 중|
-|2주차|03월 11일|힙(Heap), 정렬, 완전탐색|13문제|예정|
-|3주차|03월 18일|탐욕법(Greedy), 동적계획법(Dynamic Programming)|11문제|예정|
-|4주차|03울 25일|깊이/너비 우선 탐색(DFS/BFS), 이분탐색, 그래프|12문제|예정|
+|1주차|03월 06일|[해시](https://school.programmers.co.kr/learn/courses/30/parts/12077), [스택/큐](https://school.programmers.co.kr/learn/courses/30/parts/12081)|11문제|진행 중|
+|2주차|03월 11일|[힙(Heap)](https://school.programmers.co.kr/learn/courses/30/parts/12117), [정렬](https://school.programmers.co.kr/learn/courses/30/parts/12198), [완전탐색](https://school.programmers.co.kr/learn/courses/30/parts/12230)|13문제|예정|
+|3주차|03월 18일|[탐욕법(Greedy)](https://school.programmers.co.kr/learn/courses/30/parts/12244), [동적계획법(Dynamic Programming)](https://school.programmers.co.kr/learn/courses/30/parts/12263)|11문제|예정|
+|4주차|03월 25일|[깊이/너비 우선 탐색(DFS/BFS)](https://school.programmers.co.kr/learn/courses/30/parts/12421), [이분탐색](https://school.programmers.co.kr/learn/courses/30/parts/12486), [그래프](https://school.programmers.co.kr/learn/courses/30/parts/14393)|12문제|예정|
 
 <br>
 
