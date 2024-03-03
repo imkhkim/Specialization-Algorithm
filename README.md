@@ -1,5 +1,6 @@
 # 📌 [프로그래머스 코딩테스트 고득점 Kit](https://school.programmers.co.kr/learn/challenges?tab=algorithm_practice_kit) 문제 풀이
-#### 각 주차에 해당하는 유형을 하루 한 문제 이상 풀고, 푼 문제에 날짜와 함께 :white_check_mark: 표시. 폴더에 코드 올리고 필요시 폴더 내 README에 메모.
+#### 각 주차에 해당하는 유형을 하루 한 문제 이상 풀고, 푼 문제에 날짜와 함께 :white_check_mark: 표시.
+#### 푼 문제는 폴더에 코드 올리고 필요시 폴더 내 README에 메모.
 
 <br>
 
