@@ -43,12 +43,12 @@
 출제빈도 보통 / 평균 점수 높음 / 6문제
 |구분|주차|문제|난이도|김금환|이예진|안윤철|김혜지|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|**1**|**3월 1주차**|**[같은 숫자는 싫어](https://school.programmers.co.kr/learn/courses/30/lessons/12906)**|**Level 1**|**03월 00일 :white_large_square:**|**03월 00일 :white_large_square:**|**03월 00일 :white_large_square:**|**03월 00일 :white_large_square:**|
-|**2**|**3월 1주차**|**[기능개발](https://school.programmers.co.kr/learn/courses/30/lessons/42586)**|**Level 2**|**03월 00일 :white_large_square:**|**03월 00일 :white_large_square:**|**03월 00일 :white_large_square:**|**03월 00일 :white_large_square:**|
-|3|4월 1주차|[올바른 괄호](https://school.programmers.co.kr/learn/courses/30/lessons/12909)|Level 2|04월 00일 :white_large_square:|04월 00일 :white_large_square:|04월 00일 :white_large_square:|04월 00일 :white_large_square:|
-|4|4월 1주차|[프로세스](https://school.programmers.co.kr/learn/courses/30/lessons/42587)|Level 2|04월 00일 :white_large_square:|04월 00일 :white_large_square:|04월 00일 :white_large_square:|04월 00일 :white_large_square:|
-|5|4월 1주차|[다리를 지나는 트럭](https://school.programmers.co.kr/learn/courses/30/lessons/42583)|Level 2|04월 00일 :white_large_square:|04월 00일 :white_large_square:|04월 00일 :white_large_square:|04월 00일 :white_large_square:|
-|6|4월 1주차|[주식가격](https://school.programmers.co.kr/learn/courses/30/lessons/42584)|Level 2|04월 00일 :white_large_square:|04월 00일 :white_large_square:|04월 00일 :white_large_square:|04월 00일 :white_large_square:|
+|**1**|**3-1**|**[같은 숫자는 싫어](https://school.programmers.co.kr/learn/courses/30/lessons/12906)**|**Level 1**|**03월 00일 :white_large_square:**|**03월 00일 :white_large_square:**|**03월 00일 :white_large_square:**|**03월 00일 :white_large_square:**|
+|**2**|**3-1**|**[기능개발](https://school.programmers.co.kr/learn/courses/30/lessons/42586)**|**Level 2**|**03월 00일 :white_large_square:**|**03월 00일 :white_large_square:**|**03월 00일 :white_large_square:**|**03월 00일 :white_large_square:**|
+|3|4-1|[올바른 괄호](https://school.programmers.co.kr/learn/courses/30/lessons/12909)|Level 2|04월 00일 :white_large_square:|04월 00일 :white_large_square:|04월 00일 :white_large_square:|04월 00일 :white_large_square:|
+|4|4-1|[프로세스](https://school.programmers.co.kr/learn/courses/30/lessons/42587)|Level 2|04월 00일 :white_large_square:|04월 00일 :white_large_square:|04월 00일 :white_large_square:|04월 00일 :white_large_square:|
+|5|4-1|[다리를 지나는 트럭](https://school.programmers.co.kr/learn/courses/30/lessons/42583)|Level 2|04월 00일 :white_large_square:|04월 00일 :white_large_square:|04월 00일 :white_large_square:|04월 00일 :white_large_square:|
+|6|4-1|[주식가격](https://school.programmers.co.kr/learn/courses/30/lessons/42584)|Level 2|04월 00일 :white_large_square:|04월 00일 :white_large_square:|04월 00일 :white_large_square:|04월 00일 :white_large_square:|
 
 <br>
 
