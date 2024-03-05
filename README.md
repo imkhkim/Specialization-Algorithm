@@ -15,6 +15,8 @@
 
 <br>
 
+##### 일정
+
 ## 📅 일정
 스터디 날짜에 모여서 각자의 풀이 방법 공유
 |주차|스터디 날짜|유형|문제 수|상태|
@@ -57,6 +59,10 @@
 
 <br>
 
+##### [일정으로](#일정)
+
+<br>
+
 ##### 2주차
 
 ## 🥇 [힙(Heap)](https://school.programmers.co.kr/learn/courses/30/parts/12117)
@@ -92,6 +98,10 @@
 
 <br>
 
+##### [일정으로](#일정)
+
+<br>
+
 ##### 3주차
 
 ## 💰 [탐욕법(Greedy)](https://school.programmers.co.kr/learn/courses/30/parts/12244)
@@ -116,6 +126,10 @@
 |3|4월 3주차|[등굣길](https://school.programmers.co.kr/learn/courses/30/lessons/42898)|Level 3|:white_large_square:|:white_large_square:|:white_large_square:|:white_large_square:|
 |4|4월 3주차|[사칙연산](https://school.programmers.co.kr/learn/courses/30/lessons/1843)|Level 4|:white_large_square:|:white_large_square:|:white_large_square:|:white_large_square:|
 |5|4월 3주차|[도둑질](https://school.programmers.co.kr/learn/courses/30/lessons/42897)|Level 4|:white_large_square:|:white_large_square:|:white_large_square:|:white_large_square:|
+
+<br>
+
+##### [일정으로](#일정)
 
 <br>
 
