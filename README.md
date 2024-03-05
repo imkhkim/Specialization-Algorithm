@@ -32,8 +32,13 @@
 
 <br>
 
-> ### 1주차
-> ### [일정표](#일정표)
+<br>
+
+<hr>
+
+### 1주차
+
+<br>
 
 ###### 해시
 ## ⛓ [해시](https://school.programmers.co.kr/learn/courses/30/parts/12077)
@@ -45,6 +50,8 @@
 |**3**|**3월 1주차**|**[전화번호 목록](https://school.programmers.co.kr/learn/courses/30/lessons/42577)**|**Level 2**|:white_check_mark:|:white_large_square:|:white_large_square:|:white_large_square:|
 |4|4월 1주차|[의상](https://school.programmers.co.kr/learn/courses/30/lessons/42578)|Level 2|:white_large_square:|:white_large_square:|:white_large_square:|:white_large_square:|
 |5|4월 1주차|[베스트앨범](https://school.programmers.co.kr/learn/courses/30/lessons/42579)|Level 3|:white_large_square:|:white_large_square:|:white_large_square:|:white_large_square:|
+
+> ##### [일정표](#일정표)
 
 <br>
 
@@ -60,10 +67,17 @@
 |5|4월 1주차|[다리를 지나는 트럭](https://school.programmers.co.kr/learn/courses/30/lessons/42583)|Level 2|:white_large_square:|:white_large_square:|:white_large_square:|:white_large_square:|
 |6|4월 1주차|[주식가격](https://school.programmers.co.kr/learn/courses/30/lessons/42584)|Level 2|:white_large_square:|:white_large_square:|:white_large_square:|:white_large_square:|
 
+> ##### [일정표](#일정표)
+
 <br>
 
-> ### 2주차
-> ### [일정표](#일정표)
+<br>
+
+<hr>
+
+### 2주차
+
+<br>
 
 ###### 힙
 ## 🥇 [힙(Heap)](https://school.programmers.co.kr/learn/courses/30/parts/12117)
@@ -73,6 +87,8 @@
 |1|3월 2주차|[더 맵게](https://school.programmers.co.kr/learn/courses/30/lessons/42626)|Level 2|:white_large_square:|:white_large_square:|:white_large_square:|:white_large_square:|
 |2|4월 2주차|[디스크 컨트롤러](https://school.programmers.co.kr/learn/courses/30/lessons/42627)|Level 3|:white_large_square:|:white_large_square:|:white_large_square:|:white_large_square:|
 |3|4월 2주차|[이중우선순위큐](https://school.programmers.co.kr/learn/courses/30/lessons/42628)|Level 3|:white_large_square:|:white_large_square:|:white_large_square:|:white_large_square:|
+
+> ##### [일정표](#일정표)
 
 <br>
 
@@ -84,6 +100,8 @@
 |1|3월 2주차|[K번째수](https://school.programmers.co.kr/learn/courses/30/lessons/42748)|Level 1|:white_large_square:|:white_large_square:|:white_large_square:|:white_large_square:|
 |2|3월 2주차|[가장 큰 수](https://school.programmers.co.kr/learn/courses/30/lessons/42746)|Level 2|:white_large_square:|:white_large_square:|:white_large_square:|:white_large_square:|
 |3|4월 2주차|[H-Index](https://school.programmers.co.kr/learn/courses/30/lessons/42747)|Level 2|:white_large_square:|:white_large_square:|:white_large_square:|:white_large_square:|
+
+> ##### [일정표](#일정표)
 
 <br>
 
@@ -99,10 +117,17 @@
 |6|4월 2주차|[전력망을 둘로 나누기](https://school.programmers.co.kr/learn/courses/30/lessons/86971)|Level 2|:white_large_square:|:white_large_square:|:white_large_square:|:white_large_square:|
 |7|4월 2주차|[모음사전](https://school.programmers.co.kr/learn/courses/30/lessons/84512)|Level 2|:white_large_square:|:white_large_square:|:white_large_square:|:white_large_square:|
 
+> ##### [일정표](#일정표)
+
 <br>
 
-> ### 3주차
-> ### [일정표](#일정표)
+<br>
+
+<hr>
+
+### 3주차
+
+<br>
 
 ###### 탐욕법
 ## 💰 [탐욕법(Greedy)](https://school.programmers.co.kr/learn/courses/30/parts/12244)
@@ -115,6 +140,8 @@
 |4|3월 3주차|[구명보트](https://school.programmers.co.kr/learn/courses/30/lessons/42885)|Level 2|:white_large_square:|:white_large_square:|:white_large_square:|:white_large_square:|
 |5|4월 3주차|[섬 연결하기](https://school.programmers.co.kr/learn/courses/30/lessons/42861)|Level 3|:white_large_square:|:white_large_square:|:white_large_square:|:white_large_square:|
 |6|4월 3주차|[단속카메라](https://school.programmers.co.kr/learn/courses/30/lessons/42884)|Level 3|:white_large_square:|:white_large_square:|:white_large_square:|:white_large_square:|
+
+> ##### [일정표](#일정표)
 
 <br>
 
@@ -129,10 +156,17 @@
 |4|4월 3주차|[사칙연산](https://school.programmers.co.kr/learn/courses/30/lessons/1843)|Level 4|:white_large_square:|:white_large_square:|:white_large_square:|:white_large_square:|
 |5|4월 3주차|[도둑질](https://school.programmers.co.kr/learn/courses/30/lessons/42897)|Level 4|:white_large_square:|:white_large_square:|:white_large_square:|:white_large_square:|
 
+> ##### [일정표](#일정표)
+
 <br>
 
-> ### 4주차
-> ### [일정표](#일정표)
+<br>
+
+<hr>
+
+### 4주차
+
+<br>
 
 ###### 깊이너비 우선 탐색
 ## 🗺 [깊이/너비 우선 탐색(DFS/BFS)](https://school.programmers.co.kr/learn/courses/30/parts/12421)
@@ -146,6 +180,8 @@
 |6|4월 4주차|[여행경로](https://school.programmers.co.kr/learn/courses/30/lessons/43164)|Level 3|:white_large_square:|:white_large_square:|:white_large_square:|:white_large_square:|
 |7|4월 4주차|[퍼즐 조각 채우기](https://school.programmers.co.kr/learn/courses/30/lessons/84021)|Level 3|:white_large_square:|:white_large_square:|:white_large_square:|:white_large_square:|
 
+> ##### [일정표](#일정표)
+
 <br>
 
 ###### 이분탐색
@@ -155,6 +191,8 @@
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |1|3월 4주차|[입국심사](https://school.programmers.co.kr/learn/courses/30/lessons/43238)|Level 3|:white_large_square:|:white_large_square:|:white_large_square:|:white_large_square:|
 |2|4월 4주차|[징검다리](https://school.programmers.co.kr/learn/courses/30/lessons/43236)|Level 4|:white_large_square:|:white_large_square:|:white_large_square:|:white_large_square:|
+
+> ##### [일정표](#일정표)
 
 <br>
 
@@ -167,6 +205,4 @@
 |2|3월 4주차|[순위](https://school.programmers.co.kr/learn/courses/30/lessons/49191)|Level 3|:white_large_square:|:white_large_square:|:white_large_square:|:white_large_square:|
 |3|4월 4주차|[방의 개수](https://school.programmers.co.kr/learn/courses/30/lessons/49190)|Level 5|:white_large_square:|:white_large_square:|:white_large_square:|:white_large_square:|
 
-<br>
-
-> ### [일정표](#일정표)
+> ##### [일정표](#일정표)
