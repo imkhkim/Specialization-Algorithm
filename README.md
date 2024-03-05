@@ -21,8 +21,8 @@
 스터디 날짜에 모여서 각자의 풀이 방법 공유
 |주차|스터디 날짜|유형|문제 수|상태|
 |:---:|:---:|:---:|:---:|:---:|
-|[**3월 1주차**](#1주차)|**03월 06일**|**[해시](#해시), [스택/큐](#스택/큐)**|**5문제**|**진행 중**|
-|[3월 2주차](#2주차)|03월 11일|[힙(Heap)](#힙(Heap)), [정렬](https://school.programmers.co.kr/learn/courses/30/parts/12198), [완전탐색](https://school.programmers.co.kr/learn/courses/30/parts/12230)|6문제|예정|
+|[**3월 1주차**](#1주차)|**03월 06일**|**[해시](#해시), [스택/큐](#스택큐)**|**5문제**|**진행 중**|
+|[3월 2주차](#2주차)|03월 11일|[힙(Heap)](#힙), [정렬](https://school.programmers.co.kr/learn/courses/30/parts/12198), [완전탐색](https://school.programmers.co.kr/learn/courses/30/parts/12230)|6문제|예정|
 |[3월 3주차](#3주차)|03월 18일|[탐욕법(Greedy)](https://school.programmers.co.kr/learn/courses/30/parts/12244), [동적계획법(Dynamic Programming)](https://school.programmers.co.kr/learn/courses/30/parts/12263)|6문제|예정|
 |[3월 4주차](#4주차)|03월 25일|[깊이/너비 우선 탐색(DFS/BFS)](https://school.programmers.co.kr/learn/courses/30/parts/12421), [이분탐색](https://school.programmers.co.kr/learn/courses/30/parts/12486), [그래프](https://school.programmers.co.kr/learn/courses/30/parts/14393)|6문제|예정|
 |[4월 1주차](#1주차)|04월 01일|[해시](https://school.programmers.co.kr/learn/courses/30/parts/12077), [스택/큐](https://school.programmers.co.kr/learn/courses/30/parts/12081)|6문제|예정|
@@ -48,7 +48,7 @@
 
 <br>
 
-###### 스택/큐
+###### 스택큐
 ## 🧱 [스택/큐](https://school.programmers.co.kr/learn/courses/30/parts/12081)
 출제빈도 보통 / 평균 점수 높음 / 6문제
 |구분|주차|문제|난이도|김금환|이예진|안윤철|김혜지|
@@ -65,7 +65,7 @@
 > ### 2주차
 > ### [일정표](#일정표)
 
-###### 힙(Heap)
+###### 힙
 ## 🥇 [힙(Heap)](https://school.programmers.co.kr/learn/courses/30/parts/12117)
 출제빈도 보통 / 평균 점수 높음 / 3문제
 |구분|주차|문제|난이도|김금환|이예진|안윤철|김혜지|
