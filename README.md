@@ -1,7 +1,9 @@
 # 📌 [프로그래머스 코딩테스트 고득점 Kit](https://school.programmers.co.kr/learn/challenges?tab=algorithm_practice_kit) 문제 풀이
-#### 각 주차에 풀어아 하는 문제를 풀고, 푼 문제에 :white_check_mark: 표시.
-#### 각자 폴더에 코드 올리고 필요시 폴더 내 README에 메모.
-#### 스터디 날짜에 모여서 해당 주차 문제들 리뷰
+
+## 📚 스터디 진행 방법
+- #### 각 주차에 풀어아 하는 문제를 풀고, 푼 문제에 :white_check_mark: 표시
+- #### 각자 폴더에 코드 올리고 필요시 폴더 내 README에 메모
+- #### 스터디 날짜에 모여서 해당 주차 문제들 리뷰
 
 <br>
 
