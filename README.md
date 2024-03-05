@@ -57,8 +57,6 @@
 |5|4월 1주차|[다리를 지나는 트럭](https://school.programmers.co.kr/learn/courses/30/lessons/42583)|Level 2|:white_large_square:|:white_large_square:|:white_large_square:|:white_large_square:|
 |6|4월 1주차|[주식가격](https://school.programmers.co.kr/learn/courses/30/lessons/42584)|Level 2|:white_large_square:|:white_large_square:|:white_large_square:|:white_large_square:|
 
-<br>
-
 ##### [일정으로](#일정)
 
 <br>
@@ -96,8 +94,6 @@
 |6|4월 2주차|[전력망을 둘로 나누기](https://school.programmers.co.kr/learn/courses/30/lessons/86971)|Level 2|:white_large_square:|:white_large_square:|:white_large_square:|:white_large_square:|
 |7|4월 2주차|[모음사전](https://school.programmers.co.kr/learn/courses/30/lessons/84512)|Level 2|:white_large_square:|:white_large_square:|:white_large_square:|:white_large_square:|
 
-<br>
-
 ##### [일정으로](#일정)
 
 <br>
@@ -126,8 +122,6 @@
 |3|4월 3주차|[등굣길](https://school.programmers.co.kr/learn/courses/30/lessons/42898)|Level 3|:white_large_square:|:white_large_square:|:white_large_square:|:white_large_square:|
 |4|4월 3주차|[사칙연산](https://school.programmers.co.kr/learn/courses/30/lessons/1843)|Level 4|:white_large_square:|:white_large_square:|:white_large_square:|:white_large_square:|
 |5|4월 3주차|[도둑질](https://school.programmers.co.kr/learn/courses/30/lessons/42897)|Level 4|:white_large_square:|:white_large_square:|:white_large_square:|:white_large_square:|
-
-<br>
 
 ##### [일정으로](#일정)
 
@@ -164,3 +158,5 @@
 |1|3월 4주차|[가장 먼 노드](https://school.programmers.co.kr/learn/courses/30/lessons/49189)|Level 3|:white_large_square:|:white_large_square:|:white_large_square:|:white_large_square:|
 |2|3월 4주차|[순위](https://school.programmers.co.kr/learn/courses/30/lessons/49191)|Level 3|:white_large_square:|:white_large_square:|:white_large_square:|:white_large_square:|
 |3|4월 4주차|[방의 개수](https://school.programmers.co.kr/learn/courses/30/lessons/49190)|Level 5|:white_large_square:|:white_large_square:|:white_large_square:|:white_large_square:|
+
+##### [일정으로](#일정)
