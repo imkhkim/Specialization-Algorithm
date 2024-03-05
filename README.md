@@ -20,7 +20,7 @@
 |주차|스터디 날짜|유형|문제 수|상태|
 |:---:|:---:|:---:|:---:|:---:|
 |**3월 1주차**|**03월 06일**|**[해시](https://school.programmers.co.kr/learn/courses/30/parts/12077), [스택/큐](https://school.programmers.co.kr/learn/courses/30/parts/12081)**|**5문제**|**진행 중**|
-|3월 2주차|03월 11일|[힙(Heap)](https://school.programmers.co.kr/learn/courses/30/parts/12117), [정렬](https://school.programmers.co.kr/learn/courses/30/parts/12198), [완전탐색](https://school.programmers.co.kr/learn/courses/30/parts/12230)|6문제|예정|
+|[3월 2주차](#3월-2주차)|03월 11일|[힙(Heap)](https://school.programmers.co.kr/learn/courses/30/parts/12117), [정렬](https://school.programmers.co.kr/learn/courses/30/parts/12198), [완전탐색](https://school.programmers.co.kr/learn/courses/30/parts/12230)|6문제|예정|
 |3월 3주차|03월 18일|[탐욕법(Greedy)](https://school.programmers.co.kr/learn/courses/30/parts/12244), [동적계획법(Dynamic Programming)](https://school.programmers.co.kr/learn/courses/30/parts/12263)|6문제|예정|
 |3월 4주차|03월 25일|[깊이/너비 우선 탐색(DFS/BFS)](https://school.programmers.co.kr/learn/courses/30/parts/12421), [이분탐색](https://school.programmers.co.kr/learn/courses/30/parts/12486), [그래프](https://school.programmers.co.kr/learn/courses/30/parts/14393)|6문제|예정|
 |4월 1주차|04월 01일|[해시](https://school.programmers.co.kr/learn/courses/30/parts/12077), [스택/큐](https://school.programmers.co.kr/learn/courses/30/parts/12081)|6문제|예정|
@@ -57,6 +57,7 @@
 
 ## 🥇 [힙(Heap)](https://school.programmers.co.kr/learn/courses/30/parts/12117)
 출제빈도 보통 / 평균 점수 높음 / 3문제
+#### 3월 2주차
 |구분|주차|문제|난이도|김금환|이예진|안윤철|김혜지|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |1|3월 2주차|[더 맵게](https://school.programmers.co.kr/learn/courses/30/lessons/42626)|Level 2|:white_large_square:|:white_large_square:|:white_large_square:|:white_large_square:|
@@ -67,6 +68,7 @@
 
 ## 🗂 [정렬](https://school.programmers.co.kr/learn/courses/30/parts/12198)
 출제빈도 높음 / 평균 점수 높음 / 3문제
+#### 3월 2주차
 |구분|주차|문제|난이도|김금환|이예진|안윤철|김혜지|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |1|3월 2주차|[K번째수](https://school.programmers.co.kr/learn/courses/30/lessons/42748)|Level 1|:white_large_square:|:white_large_square:|:white_large_square:|:white_large_square:|
@@ -77,6 +79,7 @@
 
 ## 👀 [완전탐색](https://school.programmers.co.kr/learn/courses/30/parts/12230)
 출제빈도 높음 / 평균 점수 낮음 / 7문제
+#### 3월 2주차
 |구분|주차|문제|난이도|김금환|이예진|안윤철|김혜지|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |1|3월 2주차|[최소직사각형](https://school.programmers.co.kr/learn/courses/30/lessons/86491)|Level 1|:white_large_square:|:white_large_square:|:white_large_square:|:white_large_square:|
