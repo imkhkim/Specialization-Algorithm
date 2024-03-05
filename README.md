@@ -31,9 +31,9 @@
 출제빈도 높음 / 평균 점수 보통 / 5문제
 |구분|주차|문제|난이도|김금환|이예진|안윤철|김혜지|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|**1**|**3월 1주차**|**[폰켓몬](https://school.programmers.co.kr/learn/courses/30/lessons/1845)**|**Level 1**|:white_large_square:|:white_large_square:|:white_large_square:|:white_large_square:|
-|**2**|**3월 1주차**|**[완주하지 못한 선수](https://school.programmers.co.kr/learn/courses/30/lessons/42576)**|**Level 1**|:white_large_square:|:white_large_square:|:white_large_square:|:white_large_square:|
-|**3**|**3월 1주차**|**[전화번호 목록](https://school.programmers.co.kr/learn/courses/30/lessons/42577)**|**Level 2**|:white_large_square:|:white_large_square:|:white_large_square:|:white_large_square:|
+|**1**|**3월 1주차**|**[폰켓몬](https://school.programmers.co.kr/learn/courses/30/lessons/1845)**|**Level 1**|:white_check_mark:|:white_large_square:|:white_large_square:|:white_large_square:|
+|**2**|**3월 1주차**|**[완주하지 못한 선수](https://school.programmers.co.kr/learn/courses/30/lessons/42576)**|**Level 1**|:white_check_mark:|:white_large_square:|:white_large_square:|:white_large_square:|
+|**3**|**3월 1주차**|**[전화번호 목록](https://school.programmers.co.kr/learn/courses/30/lessons/42577)**|**Level 2**|:white_check_mark:|:white_large_square:|:white_large_square:|:white_large_square:|
 |4|4월 1주차|[의상](https://school.programmers.co.kr/learn/courses/30/lessons/42578)|Level 2|:white_large_square:|:white_large_square:|:white_large_square:|:white_large_square:|
 |5|4월 1주차|[베스트앨범](https://school.programmers.co.kr/learn/courses/30/lessons/42579)|Level 3|:white_large_square:|:white_large_square:|:white_large_square:|:white_large_square:|
 
@@ -43,8 +43,8 @@
 출제빈도 보통 / 평균 점수 높음 / 6문제
 |구분|주차|문제|난이도|김금환|이예진|안윤철|김혜지|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|**1**|**3월 1주차**|**[같은 숫자는 싫어](https://school.programmers.co.kr/learn/courses/30/lessons/12906)**|**Level 1**|:white_large_square:|:white_large_square:|:white_large_square:|:white_large_square:|
-|**2**|**3월 1주차**|**[기능개발](https://school.programmers.co.kr/learn/courses/30/lessons/42586)**|**Level 2**|:white_large_square:|:white_large_square:|:white_large_square:|:white_large_square:|
+|**1**|**3월 1주차**|**[같은 숫자는 싫어](https://school.programmers.co.kr/learn/courses/30/lessons/12906)**|**Level 1**|:white_check_mark:|:white_large_square:|:white_large_square:|:white_large_square:|
+|**2**|**3월 1주차**|**[기능개발](https://school.programmers.co.kr/learn/courses/30/lessons/42586)**|**Level 2**|:white_check_mark:|:white_large_square:|:white_large_square:|:white_large_square:|
 |3|4월 1주차|[올바른 괄호](https://school.programmers.co.kr/learn/courses/30/lessons/12909)|Level 2|:white_large_square:|:white_large_square:|:white_large_square:|:white_large_square:|
 |4|4월 1주차|[프로세스](https://school.programmers.co.kr/learn/courses/30/lessons/42587)|Level 2|:white_large_square:|:white_large_square:|:white_large_square:|:white_large_square:|
 |5|4월 1주차|[다리를 지나는 트럭](https://school.programmers.co.kr/learn/courses/30/lessons/42583)|Level 2|:white_large_square:|:white_large_square:|:white_large_square:|:white_large_square:|
