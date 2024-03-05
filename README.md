@@ -15,7 +15,7 @@
 
 <br>
 
-##### 일정
+##### 일정표
 
 ## 📅 일정
 스터디 날짜에 모여서 각자의 풀이 방법 공유
@@ -32,7 +32,11 @@
 
 <br>
 
-##### 1주차
+> ##### [일정표](#일정표)
+>> ### [1주차](#1주차)
+> ##### [2주차](#2주차)
+> ##### [3주차](#3주차)
+> ##### [4주차](#4주차)
 
 ## ⛓ [해시](https://school.programmers.co.kr/learn/courses/30/parts/12077)
 출제빈도 높음 / 평균 점수 보통 / 5문제
@@ -57,11 +61,13 @@
 |5|4월 1주차|[다리를 지나는 트럭](https://school.programmers.co.kr/learn/courses/30/lessons/42583)|Level 2|:white_large_square:|:white_large_square:|:white_large_square:|:white_large_square:|
 |6|4월 1주차|[주식가격](https://school.programmers.co.kr/learn/courses/30/lessons/42584)|Level 2|:white_large_square:|:white_large_square:|:white_large_square:|:white_large_square:|
 
-##### [일정으로](#일정)
-
 <br>
 
-##### 2주차
+> ##### [일정표](#일정표)
+> ##### [1주차](#1주차)
+>> ### [2주차](#2주차)
+> ##### [3주차](#3주차)
+> ##### [4주차](#4주차)
 
 ## 🥇 [힙(Heap)](https://school.programmers.co.kr/learn/courses/30/parts/12117)
 출제빈도 보통 / 평균 점수 높음 / 3문제
@@ -94,11 +100,13 @@
 |6|4월 2주차|[전력망을 둘로 나누기](https://school.programmers.co.kr/learn/courses/30/lessons/86971)|Level 2|:white_large_square:|:white_large_square:|:white_large_square:|:white_large_square:|
 |7|4월 2주차|[모음사전](https://school.programmers.co.kr/learn/courses/30/lessons/84512)|Level 2|:white_large_square:|:white_large_square:|:white_large_square:|:white_large_square:|
 
-##### [일정으로](#일정)
-
 <br>
 
-##### 3주차
+> ##### [일정표](#일정표)
+> ##### [1주차](#1주차)
+> ##### [2주차](#2주차)
+>> ### [3주차](#3주차)
+> ##### [4주차](#4주차)
 
 ## 💰 [탐욕법(Greedy)](https://school.programmers.co.kr/learn/courses/30/parts/12244)
 출제빈도 낮음 / 평균 점수 낮음 / 6문제
@@ -123,11 +131,13 @@
 |4|4월 3주차|[사칙연산](https://school.programmers.co.kr/learn/courses/30/lessons/1843)|Level 4|:white_large_square:|:white_large_square:|:white_large_square:|:white_large_square:|
 |5|4월 3주차|[도둑질](https://school.programmers.co.kr/learn/courses/30/lessons/42897)|Level 4|:white_large_square:|:white_large_square:|:white_large_square:|:white_large_square:|
 
-##### [일정으로](#일정)
-
 <br>
 
-##### 4주차
+> ##### [일정표](#일정표)
+> ##### [1주차](#1주차)
+> ##### [2주차](#2주차)
+> ##### [3주차](#3주차)
+>> ### [4주차](#4주차)
 
 ## 🗺 [깊이/너비 우선 탐색(DFS/BFS)](https://school.programmers.co.kr/learn/courses/30/parts/12421)
 출제빈도 높음 / 평균 점수 낮음 / 7문제
@@ -159,4 +169,6 @@
 |2|3월 4주차|[순위](https://school.programmers.co.kr/learn/courses/30/lessons/49191)|Level 3|:white_large_square:|:white_large_square:|:white_large_square:|:white_large_square:|
 |3|4월 4주차|[방의 개수](https://school.programmers.co.kr/learn/courses/30/lessons/49190)|Level 5|:white_large_square:|:white_large_square:|:white_large_square:|:white_large_square:|
 
-##### [일정으로](#일정)
+<br>
+
+> ##### [일정표](#일정표)
