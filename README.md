@@ -54,7 +54,7 @@
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |**1**|**3월 1주차**|**[폰켓몬](https://school.programmers.co.kr/learn/courses/30/lessons/1845)**|**Level 1**|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_large_square:|
 |**2**|**3월 1주차**|**[완주하지 못한 선수](https://school.programmers.co.kr/learn/courses/30/lessons/42576)**|**Level 1**|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_large_square:|
-|**3**|**3월 1주차**|**[전화번호 목록](https://school.programmers.co.kr/learn/courses/30/lessons/42577)**|**Level 2**|:white_check_mark:|:white_check_mark:|:white_large_square:|:white_large_square:|
+|**3**|**3월 1주차**|**[전화번호 목록](https://school.programmers.co.kr/learn/courses/30/lessons/42577)**|**Level 2**|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_large_square:|
 |4|4월 1주차|[의상](https://school.programmers.co.kr/learn/courses/30/lessons/42578)|Level 2|:white_large_square:|:white_large_square:|:white_large_square:|:white_large_square:|
 |5|4월 1주차|[베스트앨범](https://school.programmers.co.kr/learn/courses/30/lessons/42579)|Level 3|:white_large_square:|:white_large_square:|:white_large_square:|:white_large_square:|
 
