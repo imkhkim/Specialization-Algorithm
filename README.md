@@ -18,6 +18,7 @@
 ###### 일정표
 
 ## 📅 일정
+
 스터디 날짜에 모여서 각자의 풀이 방법 공유
 |주차|스터디 날짜|유형|문제 수|상태|
 |:---:|:---:|:---:|:---:|:---:|
@@ -37,36 +38,42 @@
 <hr>
 
 ### 1주차
+
 > ### [일정표](#일정표)
 
 <br>
 
 ###### 해시
+
 ## ⛓ [해시](https://school.programmers.co.kr/learn/courses/30/parts/12077)
+
 출제빈도 높음 / 평균 점수 보통 / 5문제
-|구분|주차|문제|난이도|김금환|이예진|안윤철|김혜지|노현석|
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|**1**|**3월 1주차**|**[폰켓몬](https://school.programmers.co.kr/learn/courses/30/lessons/1845)**|**Level 1**|:white_check_mark:|:white_check_mark:|:white_large_square:|:white_large_square:|:white_large_square:|
-|**2**|**3월 1주차**|**[완주하지 못한 선수](https://school.programmers.co.kr/learn/courses/30/lessons/42576)**|**Level 1**|:white_check_mark:|:white_check_mark:|:white_large_square:|:white_large_square:|:white_large_square:|
-|**3**|**3월 1주차**|**[전화번호 목록](https://school.programmers.co.kr/learn/courses/30/lessons/42577)**|**Level 2**|:white_check_mark:|:white_check_mark:|:white_large_square:|:white_large_square:|:white_large_square:|
-|4|4월 1주차|[의상](https://school.programmers.co.kr/learn/courses/30/lessons/42578)|Level 2|:white_large_square:|:white_large_square:|:white_large_square:|:white_large_square:|:white_large_square:|
-|5|4월 1주차|[베스트앨범](https://school.programmers.co.kr/learn/courses/30/lessons/42579)|Level 3|:white_large_square:|:white_large_square:|:white_large_square:|:white_large_square:|:white_large_square:|
+|구분|주차|문제|난이도|김금환|이예진|안윤철|김혜지|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+|**1**|**3월 1주차**|**[폰켓몬](https://school.programmers.co.kr/learn/courses/30/lessons/1845)**|**Level 1**|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_large_square:|
+|**2**|**3월 1주차**|**[완주하지 못한 선수](https://school.programmers.co.kr/learn/courses/30/lessons/42576)**|**Level 1**|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_large_square:|
+|**3**|**3월 1주차**|**[전화번호 목록](https://school.programmers.co.kr/learn/courses/30/lessons/42577)**|**Level 2**|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_large_square:|
+|4|4월 1주차|[의상](https://school.programmers.co.kr/learn/courses/30/lessons/42578)|Level 2|:white_large_square:|:white_large_square:|:white_large_square:|:white_large_square:|
+|5|4월 1주차|[베스트앨범](https://school.programmers.co.kr/learn/courses/30/lessons/42579)|Level 3|:white_large_square:|:white_large_square:|:white_large_square:|:white_large_square:|
+
 
 > ##### [일정표](#일정표)
 
 <br>
 
 ###### 스택큐
+
 ## 🧱 [스택/큐](https://school.programmers.co.kr/learn/courses/30/parts/12081)
+
 출제빈도 보통 / 평균 점수 높음 / 6문제
-|구분|주차|문제|난이도|김금환|이예진|안윤철|김혜지|노현석|
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|**1**|**3월 1주차**|**[같은 숫자는 싫어](https://school.programmers.co.kr/learn/courses/30/lessons/12906)**|**Level 1**|:white_check_mark:|:white_check_mark:|:white_large_square:|:white_large_square:|:white_large_square:|
-|**2**|**3월 1주차**|**[기능개발](https://school.programmers.co.kr/learn/courses/30/lessons/42586)**|**Level 2**|:white_check_mark:|:white_check_mark:|:white_large_square:|:white_large_square:|:white_large_square:|
-|3|4월 1주차|[올바른 괄호](https://school.programmers.co.kr/learn/courses/30/lessons/12909)|Level 2|:white_large_square:|:white_large_square:|:white_large_square:|:white_large_square:|:white_large_square:|
-|4|4월 1주차|[프로세스](https://school.programmers.co.kr/learn/courses/30/lessons/42587)|Level 2|:white_large_square:|:white_large_square:|:white_large_square:|:white_large_square:|:white_large_square:|
-|5|4월 1주차|[다리를 지나는 트럭](https://school.programmers.co.kr/learn/courses/30/lessons/42583)|Level 2|:white_large_square:|:white_large_square:|:white_large_square:|:white_large_square:|:white_large_square:|
-|6|4월 1주차|[주식가격](https://school.programmers.co.kr/learn/courses/30/lessons/42584)|Level 2|:white_large_square:|:white_large_square:|:white_large_square:|:white_large_square:|:white_large_square:|
+|구분|주차|문제|난이도|김금환|이예진|안윤철|김혜지|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+|**1**|**3월 1주차**|**[같은 숫자는 싫어](https://school.programmers.co.kr/learn/courses/30/lessons/12906)**|**Level 1**|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_large_square:|
+|**2**|**3월 1주차**|**[기능개발](https://school.programmers.co.kr/learn/courses/30/lessons/42586)**|**Level 2**|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_large_square:|
+|3|4월 1주차|[올바른 괄호](https://school.programmers.co.kr/learn/courses/30/lessons/12909)|Level 2|:white_large_square:|:white_large_square:|:white_large_square:|:white_large_square:|
+|4|4월 1주차|[프로세스](https://school.programmers.co.kr/learn/courses/30/lessons/42587)|Level 2|:white_large_square:|:white_large_square:|:white_large_square:|:white_large_square:|
+|5|4월 1주차|[다리를 지나는 트럭](https://school.programmers.co.kr/learn/courses/30/lessons/42583)|Level 2|:white_large_square:|:white_large_square:|:white_large_square:|:white_large_square:|
+|6|4월 1주차|[주식가격](https://school.programmers.co.kr/learn/courses/30/lessons/42584)|Level 2|:white_large_square:|:white_large_square:|:white_large_square:|:white_large_square:|
 
 > ##### [일정표](#일정표)
 
@@ -77,12 +84,15 @@
 <hr>
 
 ### 2주차
+
 > ### [일정표](#일정표)
 
 <br>
 
 ###### 힙
+
 ## 🥇 [힙(Heap)](https://school.programmers.co.kr/learn/courses/30/parts/12117)
+
 출제빈도 보통 / 평균 점수 높음 / 3문제
 |구분|주차|문제|난이도|김금환|이예진|안윤철|김혜지|노현석|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -95,7 +105,9 @@
 <br>
 
 ###### 정렬
+
 ## 🗂 [정렬](https://school.programmers.co.kr/learn/courses/30/parts/12198)
+
 출제빈도 높음 / 평균 점수 높음 / 3문제
 |구분|주차|문제|난이도|김금환|이예진|안윤철|김혜지|노현석|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -108,7 +120,9 @@
 <br>
 
 ###### 완전탐색
+
 ## 👀 [완전탐색](https://school.programmers.co.kr/learn/courses/30/parts/12230)
+
 출제빈도 높음 / 평균 점수 낮음 / 7문제
 |구분|주차|문제|난이도|김금환|이예진|안윤철|김혜지|노현석|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -129,12 +143,15 @@
 <hr>
 
 ### 3주차
+
 > ### [일정표](#일정표)
 
 <br>
 
 ###### 탐욕법
+
 ## 💰 [탐욕법(Greedy)](https://school.programmers.co.kr/learn/courses/30/parts/12244)
+
 출제빈도 낮음 / 평균 점수 낮음 / 6문제
 |구분|주차|문제|난이도|김금환|이예진|안윤철|김혜지|노현석|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -150,7 +167,9 @@
 <br>
 
 ###### 동적계획법
+
 ## 🧠 [동적계획법(Dynamic Programming)](https://school.programmers.co.kr/learn/courses/30/parts/12263)
+
 출제빈도 낮음 / 평균 점수 낮음 / 5문제
 |구분|주차|문제|난이도|김금환|이예진|안윤철|김혜지|노현석|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -169,12 +188,15 @@
 <hr>
 
 ### 4주차
+
 > ### [일정표](#일정표)
 
 <br>
 
 ###### 깊이너비 우선 탐색
+
 ## 🗺 [깊이/너비 우선 탐색(DFS/BFS)](https://school.programmers.co.kr/learn/courses/30/parts/12421)
+
 출제빈도 높음 / 평균 점수 낮음 / 7문제
 |구분|주차|문제|난이도|김금환|이예진|안윤철|김혜지|노현석|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -191,7 +213,9 @@
 <br>
 
 ###### 이분탐색
+
 ## ➗ [이분탐색](https://school.programmers.co.kr/learn/courses/30/parts/12486)
+
 출제빈도 낮음 / 평균 점수 낮음 / 2문제
 |구분|주차|문제|난이도|김금환|이예진|안윤철|김혜지|노현석|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -203,7 +227,9 @@
 <br>
 
 ###### 그래프
+
 ## 🧭 [그래프](https://school.programmers.co.kr/learn/courses/30/parts/14393)
+
 출제빈도 낮음 / 평균 점수 낮음 / 3문제
 |구분|주차|문제|난이도|김금환|이예진|안윤철|김혜지|노현석|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
