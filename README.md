@@ -96,7 +96,7 @@
 출제빈도 보통 / 평균 점수 높음 / 3문제
 |구분|주차|문제|난이도|김금환|이예진|안윤철|김혜지|노현석|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|**1**|**3월 2주차**|**[더 맵게](https://school.programmers.co.kr/learn/courses/30/lessons/42626)**|**Level 2**|:white_check_mark:|:white_large_square:|:white_large_square:|:white_check_mark:|:white_large_square:|
+|**1**|**3월 2주차**|**[더 맵게](https://school.programmers.co.kr/learn/courses/30/lessons/42626)**|**Level 2**|:white_check_mark:|:white_check_mark:|:white_large_square:|:white_check_mark:|:white_large_square:|
 |2|4월 2주차|[디스크 컨트롤러](https://school.programmers.co.kr/learn/courses/30/lessons/42627)|Level 3|:white_large_square:|:white_large_square:|:white_large_square:|:white_large_square:|:white_large_square:|
 |3|4월 2주차|[이중우선순위큐](https://school.programmers.co.kr/learn/courses/30/lessons/42628)|Level 3|:white_large_square:|:white_large_square:|:white_large_square:|:white_large_square:|:white_large_square:|
 
@@ -111,7 +111,7 @@
 출제빈도 높음 / 평균 점수 높음 / 3문제
 |구분|주차|문제|난이도|김금환|이예진|안윤철|김혜지|노현석|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|**1**|**3월 2주차**|**[K번째수](https://school.programmers.co.kr/learn/courses/30/lessons/42748)**|**Level 1**|:white_check_mark:|:white_large_square:|:white_large_square:|:white_check_mark:|:white_large_square:|
+|**1**|**3월 2주차**|**[K번째수](https://school.programmers.co.kr/learn/courses/30/lessons/42748)**|**Level 1**|:white_check_mark:|:white_check_mark:|:white_large_square:|:white_check_mark:|:white_large_square:|
 |**2**|**3월 2주차**|**[가장 큰 수](https://school.programmers.co.kr/learn/courses/30/lessons/42746)**|**Level 2**|:white_check_mark:|:white_large_square:|:white_large_square:|:white_large_square:|:white_large_square:|
 |3|4월 2주차|[H-Index](https://school.programmers.co.kr/learn/courses/30/lessons/42747)|Level 2|:white_large_square:|:white_large_square:|:white_large_square:|:white_large_square:|:white_large_square:|
 
@@ -126,9 +126,9 @@
 출제빈도 높음 / 평균 점수 낮음 / 7문제
 |구분|주차|문제|난이도|김금환|이예진|안윤철|김혜지|노현석|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|**1**|**3월 2주차**|**[최소직사각형](https://school.programmers.co.kr/learn/courses/30/lessons/86491)**|**Level 1**|:white_check_mark:|:white_large_square:|:white_large_square:|:white_large_square:|:white_large_square:|
-|**2**|**3월 2주차**|**[모의고사](https://school.programmers.co.kr/learn/courses/30/lessons/42840)**|**Level 1**|:white_check_mark:|:white_large_square:|:white_large_square:|:white_large_square:|:white_large_square:|
-|**3**|**3월 2주차**|**[소수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/42839)**|**Level 2**|:white_check_mark:|:white_large_square:|:white_large_square:|:white_large_square:|:white_large_square:|
+|**1**|**3월 2주차**|**[최소직사각형](https://school.programmers.co.kr/learn/courses/30/lessons/86491)**|**Level 1**|:white_check_mark:|:white_check_mark:|:white_large_square:|:white_large_square:|:white_large_square:|
+|**2**|**3월 2주차**|**[모의고사](https://school.programmers.co.kr/learn/courses/30/lessons/42840)**|**Level 1**|:white_check_mark:|:white_check_mark:|:white_large_square:|:white_large_square:|:white_large_square:|
+|**3**|**3월 2주차**|**[소수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/42839)**|**Level 2**|:white_check_mark:|:white_check_mark:|:white_large_square:|:white_large_square:|:white_large_square:|
 |4|4월 2주차|[카펫](https://school.programmers.co.kr/learn/courses/30/lessons/42842)|Level 2|:white_large_square:|:white_large_square:|:white_large_square:|:white_large_square:|:white_large_square:|
 |5|4월 2주차|[피로도](https://school.programmers.co.kr/learn/courses/30/lessons/87946)|Level 2|:white_large_square:|:white_large_square:|:white_large_square:|:white_large_square:|:white_large_square:|
 |6|4월 2주차|[전력망을 둘로 나누기](https://school.programmers.co.kr/learn/courses/30/lessons/86971)|Level 2|:white_large_square:|:white_large_square:|:white_large_square:|:white_large_square:|:white_large_square:|
