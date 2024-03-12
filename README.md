@@ -23,7 +23,7 @@
 |주차|스터디 날짜|유형|문제 수|상태|
 |:---:|:---:|:---:|:---:|:---:|
 |[3월 1주차](#1주차)|03월 06일|[해시](#해시), [스택/큐](#스택큐)|5문제|완료|
-|[**3월 2주차**](#2주차)|**03월 11일**|**[힙(Heap)](#힙), [정렬](#정렬), [완전탐색](#완전탐색)**|**6문제**|**진행 중**|
+|[**3월 2주차**](#2주차)|**03월 13일**|**[힙(Heap)](#힙), [정렬](#정렬), [완전탐색](#완전탐색)**|**6문제**|**진행 중**|
 |[3월 3주차](#3주차)|03월 18일|[탐욕법(Greedy)](#탐욕법), [동적계획법(Dynamic Programming)](#동적계획법)|6문제|예정|
 |[3월 4주차](#4주차)|03월 25일|[깊이/너비 우선 탐색(DFS/BFS)](#깊이너비-우선-탐색), [이분탐색](#이분탐색), [그래프](#그래프)|6문제|예정|
 |[4월 1주차](#1주차)|04월 01일|[해시](#해시), [스택/큐](#스택큐)|6문제|예정|
@@ -127,8 +127,8 @@
 |구분|주차|문제|난이도|김금환|이예진|안윤철|김혜지|노현석|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |**1**|**3월 2주차**|**[최소직사각형](https://school.programmers.co.kr/learn/courses/30/lessons/86491)**|**Level 1**|:white_check_mark:|:white_large_square:|:white_large_square:|:white_large_square:|:white_large_square:|
-|**2**|**3월 2주차**|**[모의고사](https://school.programmers.co.kr/learn/courses/30/lessons/42840)**|**Level 1**|:white_large_square:|:white_large_square:|:white_large_square:|:white_large_square:|:white_large_square:|
-|**3**|**3월 2주차**|**[소수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/42839)**|**Level 2**|:white_large_square:|:white_large_square:|:white_large_square:|:white_large_square:|:white_large_square:|
+|**2**|**3월 2주차**|**[모의고사](https://school.programmers.co.kr/learn/courses/30/lessons/42840)**|**Level 1**|:white_check_mark:|:white_large_square:|:white_large_square:|:white_large_square:|:white_large_square:|
+|**3**|**3월 2주차**|**[소수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/42839)**|**Level 2**|:white_check_mark:|:white_large_square:|:white_large_square:|:white_large_square:|:white_large_square:|
 |4|4월 2주차|[카펫](https://school.programmers.co.kr/learn/courses/30/lessons/42842)|Level 2|:white_large_square:|:white_large_square:|:white_large_square:|:white_large_square:|:white_large_square:|
 |5|4월 2주차|[피로도](https://school.programmers.co.kr/learn/courses/30/lessons/87946)|Level 2|:white_large_square:|:white_large_square:|:white_large_square:|:white_large_square:|:white_large_square:|
 |6|4월 2주차|[전력망을 둘로 나누기](https://school.programmers.co.kr/learn/courses/30/lessons/86971)|Level 2|:white_large_square:|:white_large_square:|:white_large_square:|:white_large_square:|:white_large_square:|
