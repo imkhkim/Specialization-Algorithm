@@ -26,8 +26,8 @@
 |:---:|:---:|:---:|:---:|:---:|
 |[3월 1주차](#1주차)|03월 06일|[해시](#해시), [스택/큐](#스택큐)|5문제|완료|
 |[3월 2주차](#2주차)|03월 13일|[힙(Heap)](#힙), [정렬](#정렬), [완전탐색](#완전탐색)|6문제|완료|
-|**[3월 3주차](#3주차)**|**03월 20, 22일**|**[탐욕법(Greedy)](#탐욕법), [동적계획법(Dynamic Programming)](#동적계획법)**|**6문제**|**진행 중**|
-|[3월 4주차](#4주차)|03월 27일|[깊이/너비 우선 탐색(DFS/BFS)](#깊이너비-우선-탐색), [이분탐색](#이분탐색), [그래프](#그래프)|6문제|예정|
+|**[3월 3주차](#3주차)**|**03월 20, 25일**|**[탐욕법(Greedy)](#탐욕법), [동적계획법(Dynamic Programming)](#동적계획법)**|**6문제**|**보충**|
+|**[3월 4주차](#4주차)**|**03월 28일**|**[깊이/너비 우선 탐색(DFS/BFS)](#깊이너비-우선-탐색), [이분탐색](#이분탐색), [그래프](#그래프)**|**6문제**|**진행 중**|
 |[4월 1주차](#1주차)|04월 03일|[해시](#해시), [스택/큐](#스택큐)|6문제|예정|
 |[4월 2주차](#2주차)|04월 10일|[힙(Heap)](#힙), [정렬](#정렬), [완전탐색](#완전탐색)|7문제|예정|
 |[4월 3주차](#3주차)|04월 17일|[탐욕법(Greedy)](#탐욕법), [동적계획법(Dynamic Programming)](#동적계획법)|5문제|예정|
@@ -201,9 +201,9 @@
 출제빈도 높음 / 평균 점수 낮음 / 7문제
 |구분|주차|문제|난이도|김금환|이예진|안윤철|김혜지|노현석|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|1|3월 4주차|[타겟 넘버](https://school.programmers.co.kr/learn/courses/30/lessons/43165)|Level 2|:white_large_square:|:white_large_square:|:white_check_mark:|:white_large_square:|:white_large_square:|
-|2|3월 4주차|[네트워크](https://school.programmers.co.kr/learn/courses/30/lessons/43162)|Level 3|:white_large_square:|:white_large_square:|:white_large_square:|:white_large_square:|:white_large_square:|
-|3|3월 4주차|[게임 맵 최단거리](https://school.programmers.co.kr/learn/courses/30/lessons/1844)|Level 2|:white_large_square:|:white_large_square:|:white_check_mark:|:white_large_square:|:white_large_square:|
+|**1**|**3월 4주차**|**[타겟 넘버](https://school.programmers.co.kr/learn/courses/30/lessons/43165)**|**Level 2**|:white_large_square:|:white_large_square:|:white_check_mark:|:white_large_square:|:white_large_square:|
+|**2**|**3월 4주차**|**[네트워크](https://school.programmers.co.kr/learn/courses/30/lessons/43162)**|**Level 3**|:white_large_square:|:white_large_square:|:white_large_square:|:white_large_square:|:white_large_square:|
+|**3**|**3월 4주차**|**[게임 맵 최단거리](https://school.programmers.co.kr/learn/courses/30/lessons/1844)**|**Level 2**|:white_large_square:|:white_large_square:|:white_check_mark:|:white_large_square:|:white_large_square:|
 |4|4월 4주차|[단어 변환](https://school.programmers.co.kr/learn/courses/30/lessons/43163)|Level 3|:white_large_square:|:white_large_square:|:white_large_square:|:white_large_square:|:white_large_square:|
 |5|4월 4주차|[아이템 줍기](https://school.programmers.co.kr/learn/courses/30/lessons/87694)|Level 3|:white_large_square:|:white_large_square:|:white_large_square:|:white_large_square:|:white_large_square:|:white_large_square:|
 |6|4월 4주차|[여행경로](https://school.programmers.co.kr/learn/courses/30/lessons/43164)|Level 3|:white_large_square:|:white_large_square:|:white_large_square:|:white_large_square:|:white_large_square:|
@@ -220,7 +220,7 @@
 출제빈도 낮음 / 평균 점수 낮음 / 2문제
 |구분|주차|문제|난이도|김금환|이예진|안윤철|김혜지|노현석|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|1|3월 4주차|[입국심사](https://school.programmers.co.kr/learn/courses/30/lessons/43238)|Level 3|:white_large_square:|:white_large_square:|:white_large_square:|:white_large_square:|:white_large_square:|
+|**1**|**3월 4주차**|**[입국심사](https://school.programmers.co.kr/learn/courses/30/lessons/43238)**|**Level 3**|:white_large_square:|:white_large_square:|:white_large_square:|:white_large_square:|:white_large_square:|
 |2|4월 4주차|[징검다리](https://school.programmers.co.kr/learn/courses/30/lessons/43236)|Level 4|:white_large_square:|:white_large_square:|:white_large_square:|:white_large_square:|:white_large_square:|
 
 > ##### [일정표](#일정표)
@@ -234,8 +234,8 @@
 출제빈도 낮음 / 평균 점수 낮음 / 3문제
 |구분|주차|문제|난이도|김금환|이예진|안윤철|김혜지|노현석|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|1|3월 4주차|[가장 먼 노드](https://school.programmers.co.kr/learn/courses/30/lessons/49189)|Level 3|:white_large_square:|:white_large_square:|:white_large_square:|:white_large_square:|:white_large_square:|
-|2|3월 4주차|[순위](https://school.programmers.co.kr/learn/courses/30/lessons/49191)|Level 3|:white_large_square:|:white_large_square:|:white_large_square:|:white_large_square:|:white_large_square:|
+|**1**|**3월 4주차**|**[가장 먼 노드](https://school.programmers.co.kr/learn/courses/30/lessons/49189)**|**Level 3**|:white_large_square:|:white_large_square:|:white_large_square:|:white_large_square:|:white_large_square:|
+|**2**|**3월 4주차**|**[순위](https://school.programmers.co.kr/learn/courses/30/lessons/49191)**|**Level 3**|:white_large_square:|:white_large_square:|:white_large_square:|:white_large_square:|:white_large_square:|
 |3|4월 4주차|[방의 개수](https://school.programmers.co.kr/learn/courses/30/lessons/49190)|Level 5|:white_large_square:|:white_large_square:|:white_large_square:|:white_large_square:|:white_large_square:|
 
 > ##### [일정표](#일정표)
