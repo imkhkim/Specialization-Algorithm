@@ -26,7 +26,7 @@
 |:---:|:---:|:---:|:---:|:---:|
 |[3월 1주차](#1주차)|03월 06일|[해시](#해시), [스택/큐](#스택큐)|5문제|완료|
 |[3월 2주차](#2주차)|03월 13일|[힙(Heap)](#힙), [정렬](#정렬), [완전탐색](#완전탐색)|6문제|진행 중|
-|**[3월 3주차](#3주차)**|**03월 20일**|**[탐욕법(Greedy)](#탐욕법), [동적계획법(Dynamic Programming)](#동적계획법)**|**6문제**|**예정**|
+|**[3월 3주차](#3주차)**|**03월 20, 22일**|**[탐욕법(Greedy)](#탐욕법), [동적계획법(Dynamic Programming)](#동적계획법)**|**6문제**|**예정**|
 |[3월 4주차](#4주차)|03월 27일|[깊이/너비 우선 탐색(DFS/BFS)](#깊이너비-우선-탐색), [이분탐색](#이분탐색), [그래프](#그래프)|6문제|예정|
 |[4월 1주차](#1주차)|04월 03일|[해시](#해시), [스택/큐](#스택큐)|6문제|예정|
 |[4월 2주차](#2주차)|04월 10일|[힙(Heap)](#힙), [정렬](#정렬), [완전탐색](#완전탐색)|7문제|예정|
@@ -156,10 +156,10 @@
 출제빈도 낮음 / 평균 점수 낮음 / 6문제
 |구분|주차|문제|난이도|김금환|이예진|안윤철|김혜지|노현석|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|**1**|**3월 3주차**|**[체육복](https://school.programmers.co.kr/learn/courses/30/lessons/42862)**|**Level 1**|:white_large_square:|:white_large_square:|:white_check_mark:|:white_large_square:|:white_large_square:|
+|**1**|**3월 3주차**|**[체육복](https://school.programmers.co.kr/learn/courses/30/lessons/42862)**|**Level 1**|:white_check_mark:|:white_large_square:|:white_check_mark:|:white_large_square:|:white_large_square:|
 |**2**|**3월 3주차**|**[조이스틱](https://school.programmers.co.kr/learn/courses/30/lessons/42860)**|**Level 2**|:white_large_square:|:white_large_square:|:white_large_square:|:white_large_square:|:white_large_square:|
-|**3**|**3월 3주차**|**[큰 수 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/42883)**|**Level 2**|:white_large_square:|:white_large_square:|:white_check_mark:|:white_large_square:|:white_large_square:|
-|**4**|**3월 3주차**|**[구명보트](https://school.programmers.co.kr/learn/courses/30/lessons/42885)**|**Level 2**|:white_large_square:|:white_large_square:|:white_large_square:|:white_large_square:|:white_large_square:|
+|**3**|**3월 3주차**|**[큰 수 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/42883)**|**Level 2**|:white_check_mark:|:white_large_square:|:white_check_mark:|:white_large_square:|:white_large_square:|
+|**4**|**3월 3주차**|**[구명보트](https://school.programmers.co.kr/learn/courses/30/lessons/42885)**|**Level 2**|:white_check_mark:|:white_large_square:|:white_large_square:|:white_large_square:|:white_large_square:|
 |5|4월 3주차|[섬 연결하기](https://school.programmers.co.kr/learn/courses/30/lessons/42861)|Level 3|:white_large_square:|:white_large_square:|:white_large_square:|:white_large_square:|:white_large_square:|
 |6|4월 3주차|[단속카메라](https://school.programmers.co.kr/learn/courses/30/lessons/42884)|Level 3|:white_large_square:|:white_large_square:|:white_large_square:|:white_large_square:|:white_large_square:|
 
@@ -175,7 +175,7 @@
 |구분|주차|문제|난이도|김금환|이예진|안윤철|김혜지|노현석|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |**1**|**3월 3주차**|**[N으로 표현](https://school.programmers.co.kr/learn/courses/30/lessons/42895)**|**Level 3**|:white_large_square:|:white_large_square:|:white_large_square:|:white_large_square:|:white_large_square:|
-|**2**|**3월 3주차**|**[정수 삼각형](https://school.programmers.co.kr/learn/courses/30/lessons/43105)**|**Level 3**|:white_large_square:|:white_large_square:|:white_check_mark:|:white_large_square:|:white_large_square:|
+|**2**|**3월 3주차**|**[정수 삼각형](https://school.programmers.co.kr/learn/courses/30/lessons/43105)**|**Level 3**|:white_check_mark:|:white_large_square:|:white_check_mark:|:white_large_square:|:white_large_square:|
 |3|4월 3주차|[등굣길](https://school.programmers.co.kr/learn/courses/30/lessons/42898)|Level 3|:white_large_square:|:white_large_square:|:white_large_square:|:white_large_square:|:white_large_square:|
 |4|4월 3주차|[사칙연산](https://school.programmers.co.kr/learn/courses/30/lessons/1843)|Level 4|:white_large_square:|:white_large_square:|:white_large_square:|:white_large_square:|:white_large_square:|
 |5|4월 3주차|[도둑질](https://school.programmers.co.kr/learn/courses/30/lessons/42897)|Level 4|:white_large_square:|:white_large_square:|:white_large_square:|:white_large_square:|:white_large_square:|
