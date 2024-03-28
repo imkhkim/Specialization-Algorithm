@@ -203,7 +203,7 @@
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |**1**|**3월 4주차**|**[타겟 넘버](https://school.programmers.co.kr/learn/courses/30/lessons/43165)**|**Level 2**|:white_large_square:|:white_large_square:|:white_check_mark:|:white_large_square:|:white_large_square:|
 |**2**|**3월 4주차**|**[네트워크](https://school.programmers.co.kr/learn/courses/30/lessons/43162)**|**Level 3**|:white_large_square:|:white_large_square:|:white_large_square:|:white_large_square:|:white_large_square:|
-|**3**|**3월 4주차**|**[게임 맵 최단거리](https://school.programmers.co.kr/learn/courses/30/lessons/1844)**|**Level 2**|:white_large_square:|:white_large_square:|:white_check_mark:|:white_large_square:|:white_large_square:|
+|**3**|**3월 4주차**|**[게임 맵 최단거리](https://school.programmers.co.kr/learn/courses/30/lessons/1844)**|**Level 2**|:white_large_square:|:white_check_mark:|:white_check_mark:|:white_large_square:|:white_large_square:|
 |4|4월 4주차|[단어 변환](https://school.programmers.co.kr/learn/courses/30/lessons/43163)|Level 3|:white_large_square:|:white_large_square:|:white_large_square:|:white_large_square:|:white_large_square:|
 |5|4월 4주차|[아이템 줍기](https://school.programmers.co.kr/learn/courses/30/lessons/87694)|Level 3|:white_large_square:|:white_large_square:|:white_large_square:|:white_large_square:|:white_large_square:|:white_large_square:|
 |6|4월 4주차|[여행경로](https://school.programmers.co.kr/learn/courses/30/lessons/43164)|Level 3|:white_large_square:|:white_large_square:|:white_large_square:|:white_large_square:|:white_large_square:|
