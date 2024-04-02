@@ -26,12 +26,14 @@
 |:---:|:---:|:---:|:---:|:---:|
 |[3월 1주차](#1주차)|03월 06일|[해시](#해시), [스택/큐](#스택큐)|5문제|완료|
 |[3월 2주차](#2주차)|03월 13일|[힙(Heap)](#힙), [정렬](#정렬), [완전탐색](#완전탐색)|6문제|완료|
-|**[3월 3주차](#3주차)**|**03월 20, 25일**|**[탐욕법(Greedy)](#탐욕법), [동적계획법(Dynamic Programming)](#동적계획법)**|**6문제**|**보충**|
-|**[3월 4주차](#4주차)**|**03월 28일**|**[깊이/너비 우선 탐색(DFS/BFS)](#깊이너비-우선-탐색), [이분탐색](#이분탐색), [그래프](#그래프)**|**6문제**|**진행 중**|
-|[4월 1주차](#1주차)|04월 03일|[해시](#해시), [스택/큐](#스택큐)|6문제|예정|
-|[4월 2주차](#2주차)|04월 10일|[힙(Heap)](#힙), [정렬](#정렬), [완전탐색](#완전탐색)|7문제|예정|
-|[4월 3주차](#3주차)|04월 17일|[탐욕법(Greedy)](#탐욕법), [동적계획법(Dynamic Programming)](#동적계획법)|5문제|예정|
-|[4월 4주차](#4주차)|04월 24일|[깊이/너비 우선 탐색(DFS/BFS)](#깊이너비-우선-탐색), [이분탐색](#이분탐색), [그래프](#그래프)|6문제|예정|
+|[3월 3주차](#3주차)|03월 20일|[탐욕법(Greedy)](#탐욕법), [동적계획법(Dynamic Programming)](#동적계획법)|6문제|완료|
+|[3월 4주차](#4주차)|03월 27일|[깊이/너비 우선 탐색(DFS/BFS)](#깊이너비-우선-탐색), [이분탐색](#이분탐색), [그래프](#그래프)|6문제|완료|
+|**3월 회고**|**04월 05일**|**각자 3월 문제 중 못 푼 문제 혹은 다시 풀어볼 문제 풀기**|**-**|**진행중**|
+|[4월 1주차](#1주차)|04월 08일|[해시](#해시), [스택/큐](#스택큐)|6문제|예정|
+|[4월 2주차](#2주차)|04월 15일|[힙(Heap)](#힙), [정렬](#정렬), [완전탐색](#완전탐색)|7문제|예정|
+|[4월 3주차](#3주차)|04월 22일|[탐욕법(Greedy)](#탐욕법), [동적계획법(Dynamic Programming)](#동적계획법)|5문제|예정|
+|[4월 4주차](#4주차)|04월 29일|[깊이/너비 우선 탐색(DFS/BFS)](#깊이너비-우선-탐색), [이분탐색](#이분탐색), [그래프](#그래프)|6문제|예정|
+|4월 회고|05월 03일|각자 4월 문제 중 못 푼 문제 혹은 다시 풀어볼 문제 풀기|-|예정|
 
 <br>
 
@@ -202,7 +204,7 @@
 |구분|주차|문제|난이도|김금환|이예진|안윤철|김혜지|노현석|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |**1**|**3월 4주차**|**[타겟 넘버](https://school.programmers.co.kr/learn/courses/30/lessons/43165)**|**Level 2**|:white_large_square:|:white_check_mark:|:white_check_mark:|:white_large_square:|:white_large_square:|
-|**2**|**3월 4주차**|**[네트워크](https://school.programmers.co.kr/learn/courses/30/lessons/43162)**|**Level 3**|:white_large_square:|:white_check_mark:|:white_large_square:|:white_large_square:|:white_large_square:|
+|**2**|**3월 4주차**|**[네트워크](https://school.programmers.co.kr/learn/courses/30/lessons/43162)**|**Level 3**|:white_check_mark:|:white_check_mark:|:white_large_square:|:white_large_square:|:white_large_square:|
 |**3**|**3월 4주차**|**[게임 맵 최단거리](https://school.programmers.co.kr/learn/courses/30/lessons/1844)**|**Level 2**|:white_large_square:|:white_check_mark:|:white_check_mark:|:white_large_square:|:white_large_square:|
 |4|4월 4주차|[단어 변환](https://school.programmers.co.kr/learn/courses/30/lessons/43163)|Level 3|:white_large_square:|:white_large_square:|:white_large_square:|:white_large_square:|:white_large_square:|
 |5|4월 4주차|[아이템 줍기](https://school.programmers.co.kr/learn/courses/30/lessons/87694)|Level 3|:white_large_square:|:white_large_square:|:white_large_square:|:white_large_square:|:white_large_square:|:white_large_square:|
